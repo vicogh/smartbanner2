@@ -58,9 +58,12 @@
   color: #000;
 }
 .smartbanner__info__title {
-  font-size: 14px;
+  font-size: 16px;
 }
-.smartbanner__info__author, .smartbanner__info__price {
+.smartbanner__info__author {
+  font-size: 16px;
+}
+.smartbanner__info__price {
   font-size: 12px;
 }
 .smartbanner__button {
